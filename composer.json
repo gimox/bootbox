@@ -1,0 +1,16 @@
+{
+    "name": "gimox/bootbox",
+    "type": "library",
+    "description": "bootbox wrapper",
+    "keywords": ["gimox","bootbox"],
+    "homepage": "https://github.com/gimox/bootbox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giorgio Modoni",
+            "email": "modogio@gmail.com",
+            "homepage": "https://github.com/gimox/bootbox",
+            "role": "Developer"
+        }
+    ]
+}
